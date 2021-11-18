@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StellarFruit
-- 👀 I’m interested in Fighting Games and Reverse Engineering
+- 👀 I’m interested in Art, Fighting Games and Reverse Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://twitter.com/StellartF
